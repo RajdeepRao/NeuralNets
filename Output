@@ -1,0 +1,23 @@
+Downloading data from https://s3.amazonaws.com/img-datasets/mnist.pkl.gz
+15294464/15296311 [============================>.] - ETA: 0sTrain on 60000 samples, validate on 10000 samples
+Epoch 1/10
+71s - loss: 0.2517 - acc: 0.9282 - val_loss: 0.0858 - val_acc: 0.9755
+Epoch 2/10
+71s - loss: 0.0767 - acc: 0.9771 - val_loss: 0.0594 - val_acc: 0.9801
+Epoch 3/10
+73s - loss: 0.0547 - acc: 0.9832 - val_loss: 0.0452 - val_acc: 0.9855
+Epoch 4/10
+71s - loss: 0.0423 - acc: 0.9871 - val_loss: 0.0357 - val_acc: 0.9882
+Epoch 5/10
+71s - loss: 0.0341 - acc: 0.9897 - val_loss: 0.0382 - val_acc: 0.9882
+Epoch 6/10
+71s - loss: 0.0288 - acc: 0.9908 - val_loss: 0.0321 - val_acc: 0.9899
+Epoch 7/10
+71s - loss: 0.0235 - acc: 0.9926 - val_loss: 0.0329 - val_acc: 0.9900
+Epoch 8/10
+72s - loss: 0.0188 - acc: 0.9939 - val_loss: 0.0327 - val_acc: 0.9898
+Epoch 9/10
+73s - loss: 0.0168 - acc: 0.9947 - val_loss: 0.0364 - val_acc: 0.9887
+Epoch 10/10
+72s - loss: 0.0143 - acc: 0.9958 - val_loss: 0.0312 - val_acc: 0.9906
+Baseline Error: 0.94%
